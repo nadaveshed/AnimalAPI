@@ -1,0 +1,14 @@
+.cards {
+    display: flex;
+    align-content: space-around;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card-img-top {
+    max-height: 290px;
+}
+
+.title {
+    text-align: center;
+}
